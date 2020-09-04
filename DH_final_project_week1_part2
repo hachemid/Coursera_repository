@@ -2,7 +2,7 @@
  
  In week 3, we've worked on data about Toronto city and we've generated a dataframe with the names of neighbourhoods and their coordinates.
  What we're going to do in this project is to use these coordinates to explore the different places in the city to find the best place for
- a restaurant. To do do, we need to use Foursquare API to generate JSON files that we are going to use later on in our python code. In week 2
+ a restaurant. To do so, we need to use Foursquare API to generate JSON files that we are going to use later on in our python code. In week 2
  we've seen how to use the Foursquare API to retrieve data from the Foursquare database and we used the API to explore a location and to get 
  trending venues around a point of interest. When we were exploring Foursquare. com we were trying to find the popular spots around the Conrad Hotel
  we used the explore endpoint instead of the search endpoint, and we pass the latitude and the longitude coordinates of the Conrad Hotel along with our credentials, 
